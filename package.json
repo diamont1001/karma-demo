@@ -10,9 +10,10 @@
     "dist": "webpack -p"
   },
   "keywords": [
-    "parameter",
-    "param",
-    "pass"
+    "test",
+    "unit-test"
+    "karma",
+    "mocha",
   ],
   "author": "材主 <diamont1001@163.com>",
   "license": "ISC",

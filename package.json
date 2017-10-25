@@ -11,9 +11,9 @@
   },
   "keywords": [
     "test",
-    "unit-test"
+    "unit-test",
     "karma",
-    "mocha",
+    "mocha"
   ],
   "author": "材主 <diamont1001@163.com>",
   "license": "ISC",
